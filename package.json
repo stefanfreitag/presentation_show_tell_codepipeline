@@ -34,7 +34,7 @@
     "grunt-contrib-uglify": "^4.0.1",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-sass": "^3.0.2",
-    "grunt-zip": "~0.17.1",
+    "grunt-zip": "~0.18.2",
     "load-grunt-tasks": "^5.1.0",
     "mustache": "^3.0.1",
     "node-sass": "^4.12.0",
